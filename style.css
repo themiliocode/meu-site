@@ -118,11 +118,10 @@ main#padrao a {
 main#padrao p {
     text-align: justify;
     font-variant: small-caps;
-
 }
 
-a:hover {
-    background-color: #5C7373;
+main#padrao a:hover {
+    color: #00ffff;
 }
 
 /* DIV DE REDES SOCIAIS */
