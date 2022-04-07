@@ -71,7 +71,7 @@ main#padrao {
     margin: 50px auto;
     text-align: center;
     color: white;
-    background-color: #000000d0;
+    background-color: #0000005e;
 }
 
 main#social {
@@ -86,7 +86,7 @@ main#padrao h1 {
     color: white;
     text-align: left;
     text-indent: 5px;
-    background-image: linear-gradient(to left, #032612, transparent);
+    background-image: linear-gradient(to right, #032612, transparent);
 }
 
 /* DIV DE REDES SOCIAIS */
