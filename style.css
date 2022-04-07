@@ -71,7 +71,7 @@ main#padrao {
     margin: 50px auto;
     text-align: center;
     color: white;
-    background-color: #0000005e;
+    background-color: #0000003b;
 }
 
 main#social {
@@ -84,7 +84,7 @@ main#social {
 
 main#padrao h1 {
     color: white;
-    text-align: left;
+    text-align: center;
     text-indent: 10px;
     background-image: linear-gradient(to right, #032612, transparent);
     font-variant: small-caps;
@@ -92,7 +92,7 @@ main#padrao h1 {
 
 main#padrao h2 {
     color: white;
-    text-align: left;
+    text-align: center;
     text-indent: 10px;
     background-image: linear-gradient(to right, #5d10b6, transparent);
     font-variant: small-caps;
