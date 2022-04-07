@@ -85,8 +85,44 @@ main#social {
 main#padrao h1 {
     color: white;
     text-align: left;
-    text-indent: 5px;
+    text-indent: 10px;
     background-image: linear-gradient(to right, #032612, transparent);
+    font-variant: small-caps;
+}
+
+main#padrao h2 {
+    color: white;
+    text-align: left;
+    text-indent: 10px;
+    background-image: linear-gradient(to right, #5d10b6, transparent);
+    font-variant: small-caps;
+}
+
+main#padrao li {
+    text-align: left;
+    text-decoration: none;
+    color: white;
+    font-variant: small-caps;
+    background-image: linear-gradient(to right, #5d10b6, transparent);
+    max-width: 320px;
+    font-weight: bold;
+}
+
+main#padrao a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-variant: normal;
+}
+
+main#padrao p {
+    text-align: justify;
+    font-variant: small-caps;
+
+}
+
+a:hover {
+    background-color: #5C7373;
 }
 
 /* DIV DE REDES SOCIAIS */
