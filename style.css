@@ -73,11 +73,19 @@ main#social {
     color: white;
 }
 
-main#padrao h1 {
+.curso {
     color: white;
     text-align: center;
     text-indent: 10px;
-    background-image: linear-gradient(to right, #032612, transparent);
+    background-image: linear-gradient(to right, #074d25, transparent);
+    font-variant: small-caps,;
+}
+
+.outros {
+    color: white;
+    text-align: center;
+    text-indent: 10px;
+    background-image: linear-gradient(to right, #0e77b4, transparent);
     font-variant: small-caps;
 }
 
@@ -90,13 +98,14 @@ main#padrao h2 {
 }
 
 main#padrao li {
+    background-image: linear-gradient(to right, #5d10b6, transparent);
     text-align: left;
     text-decoration: none;
     color: white;
     font-variant: small-caps;
-    background-image: linear-gradient(to right, #5d10b6, transparent);
     max-width: 320px;
     font-weight: bold;
+    padding: 0px 5px 0px 5px;
 }
 
 main#padrao a {
